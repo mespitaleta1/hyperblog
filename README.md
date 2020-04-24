@@ -12,6 +12,9 @@ apoyarte en una forja para alojar proyectos utilizando el sistema de
 control de versiones Git. Y muchas cosas más.
 
 \*este curso fue creado por platzi team
+*este curso fue creado por platzi team.
+*el curso incluye ejemplos en linux, windows y mac.
+\*disponible para todas las edades.
 
 Por otro lado, este **readme.md** es una practica de como debes crearlo.
 para mas información, puedes tomar el curso!.
